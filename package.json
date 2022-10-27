@@ -1,0 +1,27 @@
+{
+  "name": "deployed_demo2---copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "http-server src -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyatteau/Deployed_Euro22_DevSummit_Demo2.git"
+  },
+  "keywords": [],
+  "author": "Courtney Yatteau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyatteau/Deployed_Euro22_DevSummit_Demo2/issues"
+  },
+  "homepage": "https://github.com/cyatteau/Deployed_Euro22_DevSummit_Demo2#readme",
+  "devDependencies": {
+    "netlify-cli": "^12.0.11"
+  },
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
